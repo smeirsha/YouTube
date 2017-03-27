@@ -52,7 +52,7 @@
 		226B84F21D329FBA006D6A0D /* HomeVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeVC.swift; path = ViewControllers/HomeVC.swift; sourceTree = "<group>"; };
 		226B84F41D32A03F006D6A0D /* FeedVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FeedVC.swift; path = "Supporting views/FeedVC.swift"; sourceTree = "<group>"; };
 		22A486841D5391EC00B0BAEC /* NavVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NavVC.swift; path = ViewControllers/NavVC.swift; sourceTree = "<group>"; };
-		22AA44631D1302FB00CA6185 /* YouTube.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YouTube.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		22AA44631D1302FB00CA6185 /* You Tube.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "You Tube.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		22AA44661D1302FC00CA6185 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		22AA446B1D1302FC00CA6185 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		22AA446D1D1302FC00CA6185 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -144,7 +144,7 @@
 		22AA44641D1302FB00CA6185 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				22AA44631D1302FB00CA6185 /* YouTube.app */,
+				22AA44631D1302FB00CA6185 /* You Tube.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -167,9 +167,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		22AA44621D1302FB00CA6185 /* YouTube */ = {
+		22AA44621D1302FB00CA6185 /* You Tube */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 22AA44751D1302FC00CA6185 /* Build configuration list for PBXNativeTarget "YouTube" */;
+			buildConfigurationList = 22AA44751D1302FC00CA6185 /* Build configuration list for PBXNativeTarget "You Tube" */;
 			buildPhases = (
 				22AA445F1D1302FB00CA6185 /* Sources */,
 				22AA44601D1302FB00CA6185 /* Frameworks */,
@@ -179,9 +179,9 @@
 			);
 			dependencies = (
 			);
-			name = YouTube;
+			name = "You Tube";
 			productName = YouTube;
-			productReference = 22AA44631D1302FB00CA6185 /* YouTube.app */;
+			productReference = 22AA44631D1302FB00CA6185 /* You Tube.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -202,7 +202,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 22AA445E1D1302FB00CA6185 /* Build configuration list for PBXProject "YouTube" */;
+			buildConfigurationList = 22AA445E1D1302FB00CA6185 /* Build configuration list for PBXProject "You Tube" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -215,7 +215,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				22AA44621D1302FB00CA6185 /* YouTube */,
+				22AA44621D1302FB00CA6185 /* You Tube */,
 			);
 		};
 /* End PBXProject section */
@@ -401,7 +401,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		22AA445E1D1302FB00CA6185 /* Build configuration list for PBXProject "YouTube" */ = {
+		22AA445E1D1302FB00CA6185 /* Build configuration list for PBXProject "You Tube" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				22AA44731D1302FC00CA6185 /* Debug */,
@@ -410,7 +410,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		22AA44751D1302FC00CA6185 /* Build configuration list for PBXNativeTarget "YouTube" */ = {
+		22AA44751D1302FC00CA6185 /* Build configuration list for PBXNativeTarget "You Tube" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				22AA44761D1302FC00CA6185 /* Debug */,

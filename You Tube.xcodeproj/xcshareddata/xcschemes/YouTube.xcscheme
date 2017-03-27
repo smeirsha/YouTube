@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "22AA44621D1302FB00CA6185"
-               BuildableName = "YouTube.app"
-               BlueprintName = "YouTube"
-               ReferencedContainer = "container:YouTube.xcodeproj">
+               BuildableName = "You Tube.app"
+               BlueprintName = "You Tube"
+               ReferencedContainer = "container:You Tube.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "22AA44621D1302FB00CA6185"
-            BuildableName = "YouTube.app"
-            BlueprintName = "YouTube"
-            ReferencedContainer = "container:YouTube.xcodeproj">
+            BuildableName = "You Tube.app"
+            BlueprintName = "You Tube"
+            ReferencedContainer = "container:You Tube.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "22AA44621D1302FB00CA6185"
-            BuildableName = "YouTube.app"
-            BlueprintName = "YouTube"
-            ReferencedContainer = "container:YouTube.xcodeproj">
+            BuildableName = "You Tube.app"
+            BlueprintName = "You Tube"
+            ReferencedContainer = "container:You Tube.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "22AA44621D1302FB00CA6185"
-            BuildableName = "YouTube.app"
-            BlueprintName = "YouTube"
-            ReferencedContainer = "container:YouTube.xcodeproj">
+            BuildableName = "You Tube.app"
+            BlueprintName = "You Tube"
+            ReferencedContainer = "container:You Tube.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
